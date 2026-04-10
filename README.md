@@ -11,4 +11,5 @@ Convex Hull: It is the convex boundary of an object. Where convex shape is the o
 Convexity Defect: The regions not covered by the object in the convex hull around that object. A gap between a human finger is a convexity defect as two fingers are disjointed aka distinct convex contours. 
 
 Game Control 
+
 PyAutoGui python library is used to map laptop's keyboard controls to recognized hand gestures. 
