@@ -1,5 +1,5 @@
 # dangerousdave
-This project is on controlling dangerous dave game using hand getures. 
+This project is about controlling dangerous dave game using hand getures. 
 
 #Tech Stack used: Python and OpenCV
 
